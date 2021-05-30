@@ -33,16 +33,19 @@ pkg update
 ```
 ➤ *Username : No Need
 ➤ *Password : No Need
-# Option
+
+
 > *login with token
 > *login with password
-```
+
 
 ### {°} OPTIONS 
-> `clone friendlist
+> 
+ ```clone friendlist
 > *clone public ID
 > *clone Follwors ID
->  # MOHSIN ALI```
+>  MOHSIN ALI
+```
 # Available on
 ➤ termux
 ➤ linux

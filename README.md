@@ -1,4 +1,6 @@
-# MOHSIN ALI
+<p align="center">
+<img src="https://github.com/WahibZab/WahibZab/blob/WahibZab/img/python_wahibzab_23511.jpg">
+<p align="center">
 
  # Script run on termux or linux
 ``` python

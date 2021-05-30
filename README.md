@@ -1,7 +1,8 @@
 # MOHSIN ALI
 
  # Script run on termux or linux
-*pkg update
+``` python
+pkg update
 
 *pkg upgrade
 
@@ -26,18 +27,22 @@
 *pip2 install requests bs4
 
 *python2 MOHSIN.pyc
+```
 
 # Tool User And Pass
+```
 ➤ *Username : No Need
 ➤ *Password : No Need
 # Option
 > *login with token
 > *login with password
->
-> *clone friendlist
+```
+
+### {°} OPTIONS 
+> `clone friendlist
 > *clone public ID
 > *clone Follwors ID
->  # MOHSIN ALI
+>  # MOHSIN ALI```
 # Available on
 ➤ termux
 ➤ linux

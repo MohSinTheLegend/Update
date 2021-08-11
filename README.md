@@ -33,7 +33,7 @@ pkg update
 
 *pip2 install requests bs4
 
-*python2 MOHSIN.pyc
+*python2 MOHSIN.py
 ```
 
 # Tool User And Pass
